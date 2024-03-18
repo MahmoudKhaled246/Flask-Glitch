@@ -77,7 +77,7 @@ def register():
 migrate = Migrate(app, db)
 
 if __name__ == '__main__':
-    app.run(debug=True,port=4040)
+    app.run(debug=True,port=5000)
     
     
     
