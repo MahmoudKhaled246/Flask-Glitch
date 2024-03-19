@@ -14,3 +14,5 @@ print(cur.fetchone()[0])
 
 # Close the connection
 conn.close()
+
+
